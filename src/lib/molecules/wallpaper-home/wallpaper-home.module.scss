@@ -1,0 +1,8 @@
+$opacity: 0.3;
+
+.wallpaperHome {
+   background: linear-gradient(rgba(0, 0, 0, $opacity), rgba(0, 0, 0, $opacity)), url('/wallpaper-home.jpg');
+   background-size: cover;
+   background-position: top center;
+   background-attachment: fixed;
+}
